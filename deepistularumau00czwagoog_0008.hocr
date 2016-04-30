@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deepistularumau00czwagoog_0008.png"; bbox 0 0 2820 4724; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 310 1861 1053 1966">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 310 1861 1053 1966">
+     <span class='ocr_line' id='line_1_1' title="bbox 310 1861 1053 1966; baseline -0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 310 1861 728 1966; x_wconf 81' lang='lat' dir='ltr'>THEODORO</span> <span class='ocrx_word' id='word_1_2' title='bbox 766 1861 1053 1965; x_wconf 84' lang='lat' dir='ltr'><strong>HIRSOH</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 281 2088 1083 2265">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 281 2088 1083 2265">
+     <span class='ocr_line' id='line_1_2' title="bbox 281 2088 1083 2265; baseline 0.004 -3"><span class='ocrx_word' id='word_1_3' title='bbox 281 2088 647 2265; x_wconf 69' lang='lat' dir='ltr'><strong>ARNOLDO</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 686 2160 1083 2265; x_wconf 73' lang='lat' dir='ltr'><strong>soflAEFER</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 504 2456 909 2562">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 504 2456 909 2562">
+     <span class='ocr_line' id='line_1_3' title="bbox 504 2456 909 2562; baseline 0.007 -2"><span class='ocrx_word' id='word_1_5' title='bbox 504 2480 703 2561; x_wconf 71' lang='lat' dir='ltr'><strong>Pfflfflls</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 733 2481 860 2562; x_wconf 65' lang='lat' dir='ltr'><strong>mmo.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 906 2456 909 2460; x_wconf 65' lang='grc'>“</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1414 4724">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1414 4724">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1414 4724; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1414 4724; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
